@@ -1,0 +1,8 @@
+{
+  "name": "Nascer Amparado",
+  "description": "Plataforma de apoio a gestantes com informações sobre direitos no pré-natal e parto, gerador de Plano de Parto humanizado e guia prático pós-parto.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
